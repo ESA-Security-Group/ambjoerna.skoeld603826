@@ -1,0 +1,1379 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="lt-ie8" lang="sv"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app53.us.archive.org";archive_analytics.values.server_ms=0;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<meta charset="utf-8" />
+<title>&#197;klagarmyndigheten</title>
+<meta name="description" content="V&#228;lkommen till &#197;klagarmyndighetens startsida p&#229; webben. H&#228;r finns v&#229;ra pressmeddelanden, nyheter och information om myndighetens organisation och arbete. P&#229; webbplatsen finns &#228;ven information om lediga jobb i myndigheten och kontaktuppgifter till v&#229;ra &#229;klagaromr&#229;den, lokala &#229;klagarkammare samt till huvudkontoret.">
+<meta name="keywords" content="Startsida">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="Content-Type" content="text/html" charset="ISO-8859-1" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta property="og:title" content="&#197;klagarmyndigheten" />
+<meta name="CookieMsg" id="CookieMsg" content="P&#229; aklagare.se anv&#228;nder vi kakor. %Jag f&#246;rst&#229;r%&lt;a class=&quot;more-info&quot; href=&#39;/cookies/&#39;&gt;L&#228;s mer h&#228;r...&lt;/a&gt;" />
+<link href="/save/_embed/https://www.aklagare.se/bundles/css?v=Fnc0vJ_ztDT_JGrRw7ih1fJUEj81mY03py8NqTAfAyw1" rel="stylesheet" />
+<link href="/save/_embed/https://www.aklagare.se/bundles/less?v=17bokIlmX7WIDooIJloFQAzU9J-h3AwrcQrt6bw_R601" rel="stylesheet" />
+</head>
+<body class="">
+
+
+
+
+  
+    
+<script> if (window.archive_analytics) { window.archive_analytics.values['server_name']="wwwb-app53.us.archive.org";}; </script>
+
+<!-- Start of Record Banner output -->
+<wb_div id="__wb_record_overlay_div" class="__wb_overlay">
+</wb_div>
+
+<wb_div class="__wb_record_content" id="__wb_record_content_loader">
+<wb_h1 id="_wb_load_msg">Saving page now...</wb_h1>
+<wb_p id="_wb_curr_url">https://www.aklagare.se/</wb_p>
+<wb_p>As it appears live December 5, 2019 10:52:49 AM UTC</wb_p>
+
+
+
+<wb_div id="__wb_spinningSquaresG">
+<wb_div id="__wb_spinningSquaresG_1" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_2" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_3" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_4" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_5" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_6" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_7" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_8" class="__wb_spinningSquaresG">
+</wb_div>
+</wb_div>
+
+<img id="_wb_logo" src="/static/images/logo_WM.png"/>
+</wb_div>
+
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript">
+  function doRedir()
+  {   
+    var redirUrl = "/web/20191205105249/https://www.aklagare.se/";
+    var textElem = document.getElementById("_wb_load_msg");
+    if (textElem) {
+      textElem.innerHTML = "Loading Saved Page...";
+    }
+    window.location.replace(redirUrl);  
+  }
+  
+  function redirToCapture()
+  {
+    window.setTimeout(doRedir, 1000);
+  }
+
+  
+  if ( window != window.top ) {
+    
+    var wmOverlay = document.getElementById("__wb_record_overlay");
+    
+    if (wmOverlay) {
+      wmOverlay.style.display = "none";
+    }
+    
+  } else {
+    
+    if (window.addEventListener) {
+      window.addEventListener('load', redirToCapture, false);
+    } else if (window.attachEvent) {
+      window.attachEvent('onload', redirToCapture);
+    }
+    
+    // Just in case, redir after 90 secs
+    window.setTimeout(doRedir, 90000);
+  }
+</script>
+
+<!-- End of Record Banner Output output -->
+
+  
+
+
+
+
+<div class='old-browser-warning'></div>
+<header>
+<div>
+<h1>
+<a href="/save/https://www.aklagare.se/"><img src="/save/_embed/https://www.aklagare.se/contentassets/7568e7aa99e244bda3aa48ec42d779a8/aklagarmyndigheten-logo.jpg" alt=&#197;klagarmyndighetens logotype title=&#197;klagarmyndighetens logotype /></a>
+</h1>
+<ul class="menu-activators">
+<li>
+<a class="menu-toggle" href="#"><i class="fa fa-bars"></i></a>
+</li>
+</ul>
+<div class="support-menu">
+<nav>
+<form action="/save/https://www.aklagare.se/search/" class="quick-search" method="get"> <input name="q" class="search" title="S&#246;k p&#229; webbplatsen" type="text" placeholder="S&#246;k p&#229; webbplatsen" />
+<button class="search-button" type="submit" value="Search" alt="Search">
+<i class="fa fa-search"></i>
+</button>
+</form> </nav>
+</div>
+</div>
+</header>
+<nav class="main-menu">
+<ul class="left left-navigation menu-nav">
+<li class="active">
+<a class="home" href="/save/https://www.aklagare.se/" alt="Hem">
+<img src="/save/_embed/https://www.aklagare.se/ClientUI/img/icons/icon-home.png" />
+</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/">Om r&#228;ttsprocessen</a>
+<ul class="sub-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/berord-av-brott/">Ber&#246;rd av brott</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/berord-av-brott/misstankt-for-brott/">Misst&#228;nkt f&#246;r brott</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/berord-av-brott/misstankt-for-brott/konsekvenser-av-dom/">Konsekvenser av dom</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/berord-av-brott/misstankt-for-brott/nar-barn-eller-unga-misstanks-for-brott/">N&#228;r barn eller unga misst&#228;nks f&#246;r brott</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/berord-av-brott/misstankt-for-brott/rattigheter-for-misstankta/">R&#228;ttigheter f&#246;r misst&#228;nkta</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/berord-av-brott/utsatt-for-brott/">Utsatt f&#246;r brott</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/berord-av-brott/utsatt-for-brott/barn-och-unga-som-brottsoffer/">Barn och unga som brottsoffer</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/berord-av-brott/utsatt-for-brott/malsagandebitrade/">M&#229;ls&#228;gandebitr&#228;de</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/berord-av-brott/utsatt-for-brott/skadestand/">Skadest&#229;nd</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/berord-av-brott/vittne/">Vittne</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/berord-av-brott/vittne/mened/">Mened</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/">Fr&#229;n brott till &#229;tal</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/brottsutredningen/">Brottsutredningen</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/brottsutredningen/andra-tvangsmedel/">Andra tv&#229;ngsmedel</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/brottsutredningen/tvangsmedel/">Anh&#229;llande och h&#228;ktning</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/brottsutredningen/haktningstider-och-restriktioner/">H&#228;ktningstider och restriktioner</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/brottsutredningen/polis-eller-aklagare/">Polis eller &#229;klagare?</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/brottsutredningen/sekretess-under-pagaende-forundersokning/">Sekretess under p&#229;g&#229;ende f&#246;runders&#246;kning</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/brottsutredningen/slutdelgivning/">Slutdelgivning</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/brottsutredningen/teknisk-bevisning/">Teknisk bevisning</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/brottsutredningen/yppandeforbud/">Yppandef&#246;rbud</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/brottsutredningen/overprovning-av-beslut/">&#214;verpr&#246;vning av beslut</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/atalsbeslutet/">&#197;talsbeslutet</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/atalsbeslutet/om-utredningen-laggs-ner/">Om utredningen l&#228;ggs ner</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/atalsbeslutet/strafforelaggande/">Straff&#246;rel&#228;ggande</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/atalsbeslutet/atalsplikt/">&#197;talsplikt</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/atalsbeslutet/atalsunderlatelse-och-forundersokningsbegransning/">&#197;talsunderl&#229;telse och f&#246;runders&#246;kningsbegr&#228;nsning</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/fran-brott-till-atal/kontaktforbud/">Kontaktf&#246;rbud</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/rattegangen/">R&#228;tteg&#229;ngen</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/rattegangen/pladering-och-domslut/">Pl&#228;dering och domslut</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/rattegangen/pladering-och-domslut/pafoljder/">P&#229;f&#246;ljder</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/rattegangen/pladering-och-domslut/foretagsbot/">F&#246;retagsbot</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/rattegangen/pladering-och-domslut/utvisning/">Utvisning</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/rattegangen/sakframstallning-och-forhor/">Sakframst&#228;llning och f&#246;rh&#246;r</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/rattegangen/yppandeforbud/">Yppandef&#246;rbud</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/rattegangen/overklagande/">&#214;verklagande</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/overprovning/">&#214;verpr&#246;vning</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om_rattsprocessen/resning/">Resning</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/">Om brottsligheten</a>
+<ul class="sub-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/olika-brottstyper/">Olika brottstyper</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/olika-brottstyper/arbetsmiljobrott/">Arbetsmilj&#246;brott</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/olika-brottstyper/Bidragsbrott/">Bidragsbrott</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/olika-brottstyper/folkmord-brott-mot-manskligheten-och-krigsforbrytelser/">Folkmord, brott mot m&#228;nskligheten och krigsf&#246;rbrytelser</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/olika-brottstyper/fortal-och-forolampning/">F&#246;rtal och f&#246;rol&#228;mpning</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/olika-brottstyper/jaktbrott/">Jaktbrott</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/olika-brottstyper/Korruptionsbrott/">Korruptionsbrott</a>
+ </li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/olika-brottstyper/miljobrott/">Milj&#246;brott</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/olika-brottstyper/organiserad-brottslighet/">Organiserad brottslighet</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/olika-brottstyper/penningtvatt/">Penningtv&#228;tt</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/olika-brottstyper/sexualbrott/">Sexualbrott</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/utveckling-och-projekt/">Metod- och r&#228;ttsutveckling</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-brottsligheten/rattsvasendet/">R&#228;ttsv&#228;sendet</a>
+</li>
+</ul>
+</li>
+ <li>
+<a href="/save/https://www.aklagare.se/nyheter-press/">Nyheter och press</a>
+<ul class="sub-menu">
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/pressmeddelanden/">Pressmeddelanden</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/">Aktuellt p&#229; &#197;klagarmyndigheten</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagare-traffar-studenter-i-umea/">&#197;klagare tr&#228;ffar studenter i Ume&#229;</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagarmyndigheten-har-en-visselblasarfunktion/">&#197;klagarmyndigheten har en visselbl&#229;sarfunktion</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/svensk-aklagare-far-ny-expertroll-mot-terroristbrott-i-eu/">Svensk &#229;klagare f&#229;r ny expertroll mot terroristbrott i EU</a>
+ </li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/myndighetsgemensam-lagesbild-om-organiserad-brottslighet-2019/">Myndighetsgemensam l&#228;gesbild om organiserad brottslighet 2019</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/man-far-inte-lata-manniskor-do-sa-lattvindigt/">Man f&#229;r inte l&#229;ta m&#228;nniskor d&#246; s&#229; l&#228;ttvindigt</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/ytterligare-satsningar-pa-rattsvasendet-i-budgetpropositionen-for-2020/">Ytterligare satsningar p&#229; r&#228;ttsv&#228;sendet i budgetpropositionen f&#246;r 2020</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/ny-riksaklagare-pa-plats/">Ny riks&#229;klagare p&#229; plats</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/debattartikel-om-haktningar-i-expressen/">Debattartikel om h&#228;ktningar i Expressen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagarmyndighetens-poddar-med-politiker/">&#197;klagarmyndighetens poddar med politiker</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagarmyndigheten-i-almedalen/">&#197;klagarmyndigheten i Almedalen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/ny-vice-riksaklagare/">Ny vice riks&#229;klagare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/seminarium_krigsbrott/">Seminarium_krigsbrott</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/traffa-aklagarmyndigheten-pa-veterandagen/">Tr&#228;ffa &#197;klagarmyndigheten p&#229; Veterandagen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/inrikesministern-mikael-damberg-besokte-aklagarkammaren-i-norrkoping/">Inrikesministern Mikael Damberg bes&#246;kte &#197;klagarkammaren i Norrk&#246;ping</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/nya-postadresser-i-aklagaromrade-syd-fran-1-maj/">Nya postadresser i &#197;klagaromr&#229;de Syd fr&#229;n 1 maj</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/fler-an-1000-personer-atalade-i-gemensam-satsning/">Fler &#228;n 1000 personer &#229;talade i gemensam satsning</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/hur-anmaler-man-krigsforbrytelser/">Hur anm&#228;ler man krigsf&#246;rbrytelser?</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/foretagsbarometern19/">F&#246;retagsbarometern19</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/kerstin-skarp-gar-i-pension/">Kerstin Skarp g&#229;r i pension</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/anslagsokningar-begars-for-2020-2022/">Anslags&#246;kningar beg&#228;rs f&#246;r 2020-2022</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/myndighetschefer-i-mote-om-haktessituationen/">Myndighetschefer i m&#246;te om h&#228;ktessituationen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/tillsynsrapport-om-valds--och-sexualbrott/">Tillsynsrapport om v&#229;lds- och sexualbrott</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/arsredovisning-2018/">&#197;rsredovisning 2018</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/video-solveig-wollstad-om-arbetet-pa-eurojust-i-haag/">Video: Solveig Wollstad om arbetet p&#229; Eurojust i Haag</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/prioriterade-prejudikatfragor-2019/">Prioriterade prejudikatfr&#229;gor 2019</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/ny-film-om-aklagaryrket/">Ny film om &#229;klagaryrket</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/video-albanien-ar-arbetsplats-for-den-svenska-aklagaren/">​Video: Albanien &#228;r arbetsplats f&#246;r den svenska &#229;klagaren</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/handledning-infor-barnforhor/">Handledning inf&#246;r barnf&#246;rh&#246;r</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/video-inspirerande-aklagaruppdrag-utomlands/">Video: Inspirerande &#229;klagaruppdrag utomlands</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/lund/">Lund</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/ny-handbok-om-utredningar-dar-den-som-kan-misstankas-ar-under-15-ar/">Ny handbok om utredningar d&#228;r den som kan misst&#228;nkas &#228;r under 15 &#229;r</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/15-nya-aklagare/">15 nya &#229;klagare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/valaklagare/">Val&#229;klagare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/polisens-anvandning-av-tjanstevapen/">Polisens anv&#228;ndning av tj&#228;nstevapen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/ny-overaklagare-och-chef-for-uc-goteborg/">Ny &#246;ver&#229;klagare och chef f&#246;r UC G&#246;teborg</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/ny-riksaklagare/">Ny riks&#229;klagare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/hedvig-trost-blir-tf-vice-riksaklagare/">Hedvig Trost blir tf vice riks&#229;klagare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagare-deltar-i-almedalen/">&#197;klagare deltar i Almedalen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/redovisning-av-anvandningen-av-hemliga-tvangsmedel/">Redovisning av anv&#228;ndningen av hemliga tv&#229;ngsmedel</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/kerstin-skarp-tf-riksaklagare/">Kerstin Skarp tf riks&#229;klagare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagarmyndigheten-jobb-och-karriar/">&#197;klagarmyndigheten jobb och karri&#228;r</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/debatt--fler-poliser-kraver-fler-aklagare/">Debatt: Fler poliser kr&#228;ver fler &#229;klagare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagarmyndighetens-yttrande-over-delbetankandet-tidiga-forhor--nya-bevisregler-i-brottmal-sou-201798/">&#197;klagarmyndighetens yttrande &#246;ver delbet&#228;nkandet Tidiga f&#246;rh&#246;r – nya bevisregler i brottm&#229;l (SOU 2017:98)</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/rapport-myndigheter-i-samverkan/">Rapport Myndigheter i samverkan</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/fler-kommande-arenden-fran-polis-till-aklagare/">Fler kommande &#228;renden fr&#229;n polis till &#229;klagare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/tillsynsavdelningens-arsrapport-2017/">Tillsynsavdelningens &#229;rsrapport 2017</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/bugdetunderlag-2019-2021/">Budgetunderlag 2019-2021</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagarmyndighetens-arsredovisning-2017/">&#197;klagarmyndighetens &#229;rsredovisning 2017</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/prioriterade-prejudikatfragor2018/">Prioriterade Prejudikatfr&#229;gor2018</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/tva-kammaraklagare-fick-utmarkelse-av-fbi/">Tv&#229; kammar&#229;klagare fick utm&#228;rkelse av FBI</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/ny-enhet-i-aklagarmyndigheten/">Ny enhet i &#197;klagarmyndigheten</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/uppskattat-medieseminarium-i-skovde/">Uppskattat medieseminarium i Sk&#246;vde</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/myndighetschefer-markerar-mot-overgrepp/">Myndighetschefer markerar mot &#246;vergrepp</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/juristdagarna-2017/">Juristdagarna 2017</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/lagesbild-om-organiserad-brottslighet/">L&#228;gesbild om organiserad brottslighet</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/vad-kravs-av-dig-som-vill-bli-aklagare/">Vad kr&#228;vs av dig som vill bli &#229;klagare?</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagarmyndigheten-traffar-juriststudenter/">&#197;klagarmyndigheten tr&#228;ffar juriststudenter</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/myndighetsgemensam-satsning-i-utsatta-omraden/">Myndighetsgemensam satsning i utsatta omr&#229;den</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/seminarier-i-almedalen/">R&#228;ttsv&#228;sendets seminarier i Almedalen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/vem-far-utvisas-ur-sverige-pa-grund-av-brott/">Vem f&#229;r utvisas ur Sverige p&#229; grund av brott?</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/riksaklagaren-medverkar-i-juridikpodden/">Riks&#229;klagaren medverkar i juridikpodden</a>
+</li>
+ <li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/nya-riktlinjer-om-ungdomsreduktion-vid-botesstraff/">Nya riktlinjer om ungdomsreduktion vid b&#246;tesstraff</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/vilka-handlingar-behover-diarieforas/">Vilka handlingar beh&#246;ver diarief&#246;ras?</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/nya-riktlinjer-om-anhallande-av-unga/">Nya riktlinjer om anh&#229;llande av unga</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/riksaklagaren-debatt-brottsutredning/">Riks&#229;klagaren debatt brottsutredning</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/krafttag-mot-idrottsrelaterade-brott/">Krafttag mot idrottsrelaterade brott</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/resultat-av-gemensam-satsning-mot-organiserad-brottslighet/">Resultat av gemensam satsning mot organiserad brottslighet</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/arsrapport-for-sarskilda-aklagarkammaren2/">&#197;rsrapport f&#246;r S&#228;rskilda &#229;klagarkammaren</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagarmyndigheten-ater-i-topp/">&#197;klagarmyndigheten &#229;ter i topp</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/arsredovisning-2016/">&#197;rsredovisning 2016</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/prioriterade-prejudikatfragor-2017/">Prioriterade prejudikatfr&#229;gor 2017</a>
+</li>
+<li>
+ <a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/den-forsta-svenska-aklagaren-i-kosovo/">Den f&#246;rsta svenska &#229;klagaren i Kosovo</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/beslut-om-polisingripande/">Beslut om polisingripande</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/remissyttrande/">Remissyttrande</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/traffa-oss-pa-ditt-universitet-eller-hogskola/">Tr&#228;ffa oss p&#229; ditt universitet eller h&#246;gskola</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/sekretesslag/">Sekretesslag</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/vad-gor-tillsynsavdelningen/">Vad g&#246;r tillsynsavdelningen?</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/ny-chef-for-sarskilda-aklagarkammaren/">Ny chef f&#246;r S&#228;rskilda &#229;klagarkammaren</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/filmer-fran-rattsvasendets-seminarier-i-almedalen/">Filmer fr&#229;n r&#228;ttsv&#228;sendets seminarier i Almedalen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/principiellt-viktigt-avgorande-om-aldersbedomning/">Principiellt viktigt avg&#246;rande om &#229;ldersbed&#246;mning</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/sa-syns-aklagarmyndigheten-i-almedalen/">&#197;klagarmyndigheten i Almedalen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/redovisning-av-hemliga-tvangsmedel-till-regeringen/">Redovisning av hemliga tv&#229;ngsmedel till regeringen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/myndighetsgemensam-satsning-mot-grov-organiserad-brottslighet/">Myndighetsgemensam satsning mot grov organiserad brottslighet</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/fler-bedragerier-klaras-upp/">Fler bedr&#228;gerier klaras upp</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/fakta-om-europeisk-arresteringsorder/">Fakta om europeisk arresteringsorder</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/arsrapport-tillsynsavdelningen-2015/">&#197;rsrapport tillsynsavdelningen 2015</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/arsredovisning-for-2015-lamnad-till-regeringen/">&#197;rsredovisning f&#246;r 2015 l&#228;mnad till regeringen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/arsrapport-for-sarskilda-aklagarkammaren/">&#197;rsrapport f&#246;r S&#228;rskilda &#229;klagarkammaren</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/utredningar-om-aktenskapstvang/">Utredningar om &#228;ktenskapstv&#229;ng</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/fortsatt-fortroende-for-aklagarna/">Fortsatt f&#246;rtroende f&#246;r &#229;klagarna</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/barn-med-funktionshinder/">Barn med funktionshinder</a>
+</li>
+<li>
+ <a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/arbetet-med-valdtaktsarenden/">Arbetet med v&#229;ldt&#228;kts&#228;renden</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/hanteringen-av-kontaktforbudsarenden---nya-riktlinjer/">Hanteringen av kontaktf&#246;rbuds&#228;renden - nya riktlinjer</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagarmyndigheten-kvar-i-toppen-som-dromarbetsgivare/">&#197;klagarmyndigheten kvar i toppen som dr&#246;marbetsgivare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/sakerhetsarbete1/">S&#228;kerhetsarbete</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/anders-perklev-aklagarmyndigheten-organiserar-sig-for-framtiden/">Anders Perklev: &#197;klagarmyndigheten organiserar sig f&#246;r framtiden</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/Utreder-poliserna-sig-sjalva/">Mats &#197;hlund: Utreder poliserna sig sj&#228;lva?</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/haktningstider-och-restriktioner/">H&#228;ktningstider och restriktioner</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/for-media/">F&#246;r media</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/for-media/medieaklagare/">Medie&#229;klagare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/for-media/pressbilder/">Pressbilder</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/for-media/aklagarmyndighetens-logotyp/">&#197;klagarmyndighetens logotyp</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/nyheter-press/for-media/sociala-medier/">Sociala medier</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="right menu-nav">
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/">Om oss</a>
+<ul class="sub-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/organisation/">Organisation</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/organisation/historik/">Historik</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/organisation/om-tillsynsavdelningen/">Om Tillsynsavdelningen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/organisation/sarskilda-aklagarkammaren/">S&#228;rskilda &#229;klagarkammaren</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/organisation/visselblasarfunktion-pa-aklagarmyndigheten/">Visselbl&#229;sarfunktion p&#229; &#197;klagarmyndigheten</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/uppdrag-och-mal/">Uppdrag och m&#229;l</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/uppdrag-och-mal/statistik/">Statistik</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/uppdrag-och-mal/statistik/om-statistiken/">Om statistiken</a>
+</li>
+ <li>
+<a href="/save/https://www.aklagare.se/om-oss/uppdrag-och-mal/statistik/begrepp-och-matt-inom-verksamhetsstatistiken/">Begrepp och m&#229;tt&#160;inom verksamhetsstatistiken</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/uppdrag-och-mal/statistik/kriminalstatistik/">Kriminalstatistik</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/riksaklagaren/">Riks&#229;klagaren</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/riksaklagaren/hogsta-domstolen/">H&#246;gsta domstolen</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/aklagarverksamheten/">&#197;klagarverksamheten</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/aklagarverksamheten/alltid-nagon-aklagare-i-tjanst1/">Alltid n&#229;gon &#229;klagare i tj&#228;nst</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/aklagarverksamheten/internationell-aklagarverksamhet/">Internationellt r&#228;ttsligt samarbete</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/aklagarverksamheten/internationell-aklagarverksamhet/fakta-om-europeisk-arresteringsorder/">Europeisk arresteringsorder</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/aklagarverksamheten/internationell-aklagarverksamhet/overlamnande-fran-annat-eu-land/">&#214;verl&#228;mnande fr&#229;n annat EU-land</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/aklagarverksamheten/internationell-aklagarverksamhet/europeisk-utredningsorder/">Europeisk utredningsorder</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/aklagarverksamheten/internationell-aklagarverksamhet/utlamning-till-lander-utanfor-eu/">Utl&#228;mning till l&#228;nder utanf&#246;r EU</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/">Dokument</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/forfattningssamlingar/">F&#246;rfattningssamling</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/gallande-forfattningar-i-dess-nuvarande-lydelse/">G&#228;llande f&#246;rfattningar i dess nuvarande lydelse</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/handbocker/">Handb&#246;cker</a>
+ </li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/informationsmaterial/">Informationsmaterial</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/ordningsbotskatalog/">Ordningsbotskatalog</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/planering-och-uppfoljning/">Planering och uppf&#246;ljning</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/rapporter/">Rapporter</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/remissvar/">Remissvar</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/rattspromemorior/">R&#228;ttspromemorior</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/tilldelningsbeslut/">Tilldelningsbeslut</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/dokument/verksamheten-i-hogsta-domstolen/">Verksamheten i H&#246;gsta domstolen</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/upphandlingar/">Upphandlingar</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/upphandlingar/e-handel/">E-handel</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/upphandlingar/samarbete-med-skatteverket/">Samarbete med Skatteverket</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/om-oss/objektivitetsplikt/">Objektivitetsplikt</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/">Karri&#228;r</a>
+<ul class="sub-menu">
+<li>
+<a href="/save/https://www.aklagare.se/karriar/att-jobba-hos-oss1/">Att jobba hos oss</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/karriar/att-jobba-hos-oss1/formaner-arbetsmiljo-och-sakerhet/">F&#246;rm&#229;ner, arbetsmilj&#246; och s&#228;kerhet</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/att-jobba-hos-oss1/loner1/">L&#246;ner</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/att-jobba-hos-oss1/personalstatistik1/">Personalstatistik</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/lediga-jobb/">Lediga jobb</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/mot-vara-anstallda/">M&#246;t v&#229;ra anst&#228;llda</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/karriar/mot-vara-anstallda/joseph-ricken-assistentaklagare-i-gallivare/">Joseph Ricken, assistent&#229;klagare i G&#228;llivare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/mot-vara-anstallda/charlotta-hellberg-kammaraklagare-i-karlskrona/">Charlotta Hellberg, kammar&#229;klagare i Karlskrona</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/mot-vara-anstallda/specialist-ulrika-bentelius-egelrud/">Ulrika Bentelius Egelrud, specialist i G&#246;teborg</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/mot-vara-anstallda/lars-agren-aklagare-med-internationella-uppdrag/">Lars &#197;gren, &#229;klagare med internationella uppdrag</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/mot-vara-anstallda/ola-sjostrand-kammarchef-i-malmo/">Ola Sj&#246;strand, kammarchef i Malm&#246;</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/mot-vara-anstallda/chefsadministrator-anna-engelind/">Anna Engelind, chefsadministrat&#246;r i Ume&#229;</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/mot-vara-anstallda/anna-mahdessianit-administrator-i-stockholm/">Anna Mahdessian, it-administrat&#246;r i Stockholm</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/rekrytering/">Rekrytering</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/karriar/rekrytering/kontaktpersoner---rekrytering/">Kontaktpersoner - rekrytering</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/rekrytering/ny-som-jurist1/">Ny som jurist</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/rekrytering/rekrytering-av-aklagare/">Rekrytering av &#229;klagare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/rekrytering/rekrytering-av-administrativ-personal1/">Rekrytering av &#246;vrig personal</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/aklagaryrket/">&#197;klagaryrket</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/karriar/aklagaryrket/utbildning-till-aklagare--intervju-med-mehrdad-sanaei/">En skr&#228;ddarsydd utbildning - &#229;klagaren ber&#228;ttar</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/aklagaryrket/karriar-och-vidareutbildning/">Karri&#228;r och vidareutbildning</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/karriar/aklagaryrket/karriar-och-vidareutbildning/specialistutbildning/">Specialistutbildning</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/aklagaryrket/karriar-och-vidareutbildning/chefskarriar/">Chefskarri&#228;r</a>
+</li>
+ </ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/aklagaryrket/ny-film-om-aklagaryrket/">Ny film om &#229;klagaryrket</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/aklagaryrket/traffa-oss-pa-ditt-universitet-eller-hogskola/">Tr&#228;ffa oss p&#229; ditt universitet eller h&#246;gskola</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/karriar/aklagaryrket/utbildning-till-aklagare/">Utbildning till &#229;klagare</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/">Kontakt</a>
+<ul class="sub-menu">
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/huvudkontoret/">Huvudkontoret</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/huvudkontoret/kontakta-webbredaktionen/">Kontakta webbredaktionen</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/huvudkontoret/kontakt-rekrytering/">Kontakt rekrytering</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/">&#197;klagaromr&#229;den</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-stockholm/">&#197;klagaromr&#229;de Stockholm</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-stockholm/stockholm---city-aklagarkammare/">City &#229;klagarkammare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-stockholm/norrorts-aklagarkammare-och-lokal-aklagare-i-visby/">Norrorts &#229;klagarkammare och Lokal &#229;klagare i Visby</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-stockholm/soderorts-aklagarkammare/">S&#246;derorts &#229;klagarkammare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-stockholm/sodertorns-aklagarkammare/">S&#246;dert&#246;rns &#229;klagarkammare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-stockholm/vasterorts-aklagarkammare/">V&#228;sterorts &#229;klagarkammare</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-nord/">&#197;klagaromr&#229;de Nord</a>
+<ul class="local-menu">
+<li>
+ <a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-nord/lulea-och-lokal-aklagare-i-gallivare/">&#197;klagarkammaren i Lule&#229; och Lokal &#229;klagare i G&#228;llivare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-nord/sundsvall/">&#197;klagarkammaren i Sundsvall</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-nord/umea/">&#197;klagarkammaren i Ume&#229;</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-nord/ostersund/">&#197;klagarkammaren i &#214;stersund</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-bergslagen/">&#197;klagaromr&#229;de Bergslagen</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-bergslagen/falun/">&#197;klagarkammaren i Falun</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-bergslagen/karlstad/">&#197;klagarkammaren i Karlstad</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-bergslagen/orebro/">&#197;klagarkammaren i &#214;rebro</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-mitt/">&#197;klagaromr&#229;de Mitt</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-mitt/gavle/">&#197;klagarkammaren i G&#228;vle</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-mitt/uppsala/">&#197;klagarkammaren i Uppsala</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-mitt/vasteras/">&#197;klagarkammaren i V&#228;ster&#229;s</a>
+</li>
+</ul>
+</li>
+ <li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-ost/">&#197;klagaromr&#229;de &#214;st</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-ost/eskilstuna/">&#197;klagarkammaren i Eskilstuna</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-ost/jonkoping/">&#197;klagarkammaren i J&#246;nk&#246;ping</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-ost/linkoping/">&#197;klagarkammaren i Link&#246;ping</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-ost/norrkoping/">&#197;klagarkammaren i Norrk&#246;ping</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-ost/nykoping/">&#197;klagarkammaren i Nyk&#246;ping</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-vast/">&#197;klagaromr&#229;de V&#228;st</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-vast/goteborg/">G&#246;teborgs &#229;klagarkammare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-vast/boras/">&#197;klagarkammaren i Bor&#229;s</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-vast/halmstad/">&#197;klagarkammaren i Halmstad</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-vast/skovde/">&#197;klagarkammaren i Sk&#246;vde</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-vast/uddevalla/">&#197;klagarkammaren i Uddevalla</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-syd/">&#197;klagaromr&#229;de Syd</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-syd/malmo/">Malm&#246; &#229;klagarkammare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-syd/sodra-skane/">S&#246;dra Sk&#229;nes &#229;klagarkammare</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-syd/helsingborg/">&#197;klagarkammaren i Helsingborg</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-syd/kalmar/">&#197;klagarkammaren i Kalmar</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-syd/karlskrona/">&#197;klagarkammaren i Karlskrona</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-syd/kristianstad/">&#197;klagarkammaren i Kristianstad</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-syd/vaxjo/">&#197;klagarkammaren i V&#228;xj&#246;</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/nationella-aklagaravdelningen/">Nationella &#229;klagaravdelningen</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/nationella-aklagaravdelningen/riksenheten-for-miljo--och-arbetsmiljomal/">Riksenheten f&#246;r milj&#246;- och arbetsmilj&#246;m&#229;l</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/nationella-aklagaravdelningen/riksenheten-for-sakerhetsmal/">Riksenheten f&#246;r s&#228;kerhetsm&#229;l</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/nationella-aklagaravdelningen/riksenheten-mot-internationell-och-organiserad-brottslighet/">Riksenheten mot internationell och organiserad brottslighet</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/nationella-aklagaravdelningen/riksenheten-mot-korruption/">Riksenheten mot korruption</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/utvecklingscentrum/">Utvecklingscentrum</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/utvecklingscentrum/utvecklingscentrum-stockholm/">Utvecklingscentrum Stockholm</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/utvecklingscentrum/utvecklingscentrum-goteborg/">Utvecklingscentrum G&#246;teborg</a>
+</li>
+<li> 
+<a href="/save/https://www.aklagare.se/kontakt/utvecklingscentrum/utvecklingscentrum-malmo/">Utvecklingscentrum Malm&#246;</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/kontakt/sarskilda-aklagarkammaren/">S&#228;rskilda &#229;klagarkammaren</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="menu-nav menu-support">
+<li>
+<a href="/save/https://www.aklagare.se/ordlista/">Ordlista</a>
+<ul class="sub-menu">
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/">L&#228;ttl&#228;st</a>
+<ul class="sub-menu">
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/det-har-ar-aklagarmyndigheten/">Det h&#228;r &#228;r &#197;klagarmyndigheten</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/det-har-gor-en-aklagare/">Det h&#228;r g&#246;r en &#229;klagare</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/det-har-gor-en-aklagare/objektivitet/">Objektivitet</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/det-har-gor-en-aklagare/aklagaren-vacker-atal/">&#197;klagaren v&#228;cker &#229;tal</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/det-har-gor-en-aklagare/strafforelaggande/">Straff&#246;rel&#228;ggande</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/det-har-gor-en-aklagare/sa-har-gar-en-rattegang-till/">S&#229; h&#228;r g&#229;r en r&#228;tteg&#229;ng till</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/det-har-gor-en-aklagare/sa-har-overklagar-du-en-dom/">S&#229; h&#228;r &#246;verklagar du en dom</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/for-dig-som-brottsoffer/">F&#246;r dig som brottsoffer</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/for-dig-som-ar-vittne-till-ett-brott/">F&#246;r dig som &#228;r vittne till ett brott</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/for-dig-som-ar-misstankt-for-ett-brott/">F&#246;r dig som &#228;r misst&#228;nkt f&#246;r ett brott</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/for-dig-som-vill-jobba-hos-oss/">F&#246;r dig som vill jobba hos oss</a>
+<ul class="local-menu">
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/for-dig-som-vill-jobba-hos-oss/vad-ska-jag-kunna-for-att-bli-aklagare/">Vad ska jag kunna f&#246;r att bli &#229;klagare?</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/for-dig-som-vill-jobba-hos-oss/hur-gar-antagningen-till/">Hur g&#229;r antagningen till?</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/for-dig-som-vill-jobba-hos-oss/sa-har-mycket-far-man-i-lon/">S&#229; h&#228;r mycket f&#229;r man i l&#246;n</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/for-dig-som-vill-jobba-hos-oss/vi-tanker-pa-vara-anstallda/">Vi t&#228;nker p&#229; v&#229;ra anst&#228;llda</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/for-dig-som-vill-jobba-hos-oss/mot-vara-anstallda2/">M&#246;t v&#229;ra anst&#228;llda</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/ungdomar-och-brott/">Ungdomar och brott</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/media/">&#197;klagarmyndigheten i media</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/brott-i-andra-lander/">Brott i andra l&#228;nder</a>
+</li>
+<li>
+<a href="/save/https://www.aklagare.se/lattlast/kontakt/">Kontakt</a>
+</li>
+</ul>
+</li>
+<li><a href="/save/https://www.aklagare.se/en" class="other-languages">In English</a></li>
+<li><a href="#" id="speakit" class="listen">Lyssna</a></li>
+</ul>
+</nav>
+
+<article class="start-page">
+<div class="main-content-container main-content-container__start">
+<div class="main-content main-content__start" role="main">
+<div class="content-box content-box__start content-box__top content-box__start__top">
+<h2>Pressmeddelanden</h2>
+<div>
+<div class="news-list news-list__start news-list__top news-list__start__top">
+<ul>
+<li class="list-item">
+<article>
+<header>
+<h2><a href="/save/https://www.aklagare.se/nyheter-press/pressmeddelanden/?newsId=3266458">Dom p&#229; m&#229;ndag i &#228;rende om grovt f&#246;rtal med kvinnlig kolumnist</a></h2>
+</header>
+<time>2019-12-05</time>
+<p>
+P&#229; m&#229;ndag den 9 december kl. 14 meddelar Stockholms tingsr&#228;tt dom i &#228;rendet d&#228;r en kvinnlig kolumnist &#229;talats f&#246;r grovt f&#246;rtal av manlig journalist. &#197;klagaren &#228;r tillg&#228;nglig f&#246;r media.
+</p>
+<a class="read-more" href="/save/https://www.aklagare.se/nyheter-press/pressmeddelanden/?newsId=3266458">L&#228;s mer <i class="fa fa-angle-right"></i> </a>
+</article>
+<div class="list-extend">
+<div class="extend-wrapper">
+<p>P&#229; m&#229;ndag den 9 december kl. 14 meddelar Stockholms tingsr&#228;tt dom i &#228;rendet d&#228;r en kvinnlig kolumnist &#229;talats f&#246;r grovt f&#246;rtal av manlig journalist. &#197;klagaren &#228;r tillg&#228;nglig f&#246;r media.</p>
+<p>Kontakt Kammar&#229;klagare Daniel Suneson &#228;r tillg&#228;nglig f&#246;r media p&#229; m&#229;ndag under en timme fr&#229;n kl. 14.30 p&#229; telefon 010-562 55 93. Fakta 2011 anm&#228;lde kvinnan mannen f&#246;r en v&#229;ldt&#228;kt som ska ha &#228;gt rum &#229;r 2006, men f&#246;runders&#246;kningen lades ned med h&#228;nvisning till att brott inte kunde styrkas. I oktober 2017 lade kvinnan ut material i sociala medier d&#228;r hon med namn pekade ut mannen som v&#229;ldt&#228;ktsman. F&#246;runders&#246;kning inleddes i januari 2018. Huvudf&#246;rhandling h&#246;lls i Stockholms tingsr&#228;tt 21 och 25 november 2019. Kammar&#229;klagare Daniel Suneson yrkade p&#229; villkorlig dom och b&#246;ter. M&#229;lnummer i tingsr&#228;tten: B 1755–18. &#160; &#160; &#160; &#197;klagarmyndighetens presstj&#228;nst, 010-562 50 20</p>
+<a href="/save/https://www.aklagare.se/nyheter-press/pressmeddelanden/?newsId=3266458">L&#228;s mer <i class="fa fa-angle-right"></i> </a>
+</div>
+</div>
+</li>
+<li class="list-item">
+<article>
+<header>
+<h2><a href="/save/https://www.aklagare.se/nyheter-press/pressmeddelanden/?newsId=3266501">&#197;tal f&#246;r mord och brott mot griftefriden i Kiruna</a></h2>
+</header>
+<time>2019-12-05</time>
+<p>
+&#197;klagaren har i dag den 5 december 2019 v&#228;ckt &#229;tal i ett &#228;rende om mord och brott mot griftefrid den 27 juli 2019 i Kiruna.
+</p>
+<a class="read-more" href="/save/https://www.aklagare.se/nyheter-press/pressmeddelanden/?newsId=3266501">L&#228;s mer <i class="fa fa-angle-right"></i> </a>
+</article>
+<div class="list-extend">
+<div class="extend-wrapper">
+<p>&#197;klagaren har i dag den 5 december 2019 v&#228;ckt &#229;tal i ett &#228;rende om mord och brott mot griftefrid den 27 juli 2019 i Kiruna.</p>
+<p>En man hemmah&#246;rande i Kiruna anm&#228;ldes f&#246;rsvunnen i slutet av juli i &#229;r. Kort tid efter anm&#228;lan uppkom misstanke om att brott l&#229;g bakom f&#246;rsvinnandet och tre m&#228;n anh&#246;lls och h&#228;ktades misst&#228;nkta f&#246;r delaktighet i mannens f&#246;rsvinnande. I mitten av augusti hittades den f&#246;rsvunne mannen d&#246;d. De tre h&#228;ktade m&#228;nnen har nu &#229;talats f&#246;r mord och brott mot griftefriden. – Alla tre misst&#228;nkta har vidg&#229;tt delaktighet i det v&#229;ld som lett till mannens d&#246;d. Tv&#229; av m&#228;nnen har dessutom erk&#228;nt brott mot griftefrid, s&#228;ger vice chefs&#229;klagare Anna Bergstr&#246;m vid &#197;klagarkammaren i Lule&#229;. &#197;talet har l&#228;mnats in till G&#228;llivare tingsr&#228;tt. St&#228;mningsans&#246;kan och f&#246;runders&#246;kningsprotokoll kan beg&#228;ras fr&#229;n tingsr&#228;tten. Tingsr&#228;ttsf&#246;rhandlingen &#228;r planerad att genomf&#246;ras i G&#228;llivare tingsr&#228;tt under vecka 51. &#160; Tingsr&#228;ttens m&#229;lnummer: B 607-19. &#160; Kontakt Vice chefs&#229;klagare Anna Bergstr&#246;m &#228;r tillg&#228;nglig f&#246;r media i dag kl. 10–11.30 p&#229; 010-562 65 37. &#197;klagarmyndighetens presstj&#228;nst, 010-562 50 20</p>
+<a href="/save/https://www.aklagare.se/nyheter-press/pressmeddelanden/?newsId=3266501">L&#228;s mer <i class="fa fa-angle-right"></i> </a>
+</div>
+</div>
+</li>
+<li class="list-item">
+<article>
+<header>
+<h2><a href="/save/https://www.aklagare.se/nyheter-press/pressmeddelanden/?newsId=3266495">Uppdatering i &#228;rende om mord i Sk&#246;nsmon, Sundsvall</a></h2>
+</header>
+<time>2019-12-05</time>
+<p>
+Kammar&#229;klagare Jens G&#246;ransson har idag beg&#228;rt ytterligare en person h&#228;ktad p&#229; sannolika sk&#228;l misst&#228;nkt f&#246;r mord.
+</p>
+<a class="read-more" href="/save/https://www.aklagare.se/nyheter-press/pressmeddelanden/?newsId=3266495">L&#228;s mer <i class="fa fa-angle-right"></i> </a>
+</article>
+<div class="list-extend">
+<div class="extend-wrapper">
+<p>Kammar&#229;klagare Jens G&#246;ransson har idag beg&#228;rt ytterligare en person h&#228;ktad p&#229; sannolika sk&#228;l misst&#228;nkt f&#246;r mord.</p>
+<p>H&#228;ktningsf&#246;rhandlingen &#228;ger rum kl. 11 i dag. &#160; M&#229;lnummer i Sundsvalls tingsr&#228;tt: B 2741–19. &#160; &#160; Kontakt &#160; Jens G&#246;ransson kommer att finnas tillg&#228;nglig efter h&#228;ktningsf&#246;rhandlingen i tingsr&#228;ttens lokaler. &#160; &#197;klagarmyndighetens presstj&#228;nst, 010-562 50 20</p>
+<a href="/save/https://www.aklagare.se/nyheter-press/pressmeddelanden/?newsId=3266495">L&#228;s mer <i class="fa fa-angle-right"></i> </a>
+</div>
+</div>
+</li>
+<li class="list-more-info">
+<a class="more-info" href="/save/https://www.aklagare.se/nyheter-press/pressmeddelanden/">Fler pressmeddelanden <i class="fa fa-angle-right"></i></a>
+</li>
+</ul>
+</div>
+<div class="hero-image" style="background-image: url('/save/_embed/https://www.aklagare.se/globalassets/bilder/startbilder-650x800/aklagare10.jpg')"></div>
+</div>
+</div>
+<div class="content-box content-box__start content-box__bottom content-box__start__bottom">
+<h2>Aktuellt p&#229; &#197;klagarmyndigheten</h2>
+<div class="news-list news-list__start">
+<ul>
+<li class="news-item">
+<article class="item-article">
+<div class="article-content">
+<h2><a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagare-traffar-studenter-i-umea/">&#197;klagare tr&#228;ffar studenter i Ume&#229;</a></h2>
+<time>2019-12-03</time>
+<p>P&#229; torsdag den 5 december deltar &#197;klagarmyndigheten p&#229; ”Juristens dag” p&#229; Ume&#229; universitet.</p>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagare-traffar-studenter-i-umea/">L&#228;s mer<i class="fa fa-angle-right"></i></a>
+</div>
+<div class="article-image" style="background-image: url(/save/_embed/https://www.aklagare.se/globalassets/bilder/puffbilder-aktuellt-pa-am-startsida-220-b-x-170-h/puff_arbetsmarknadsdag.jpg)"></div>
+</article>
+</li>
+<li class="news-item">
+<article class="item-article">
+<div class="article-content">
+<h2><a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagarmyndigheten-har-en-visselblasarfunktion/">&#197;klagarmyndigheten har en visselbl&#229;sarfunktion</a></h2>
+<time>2019-11-13</time>
+<p>&#197;klagarmyndighetens visselbl&#229;sarfunktion &#228;r en s&#228;rskild kanal som har inr&#228;ttats f&#246;r att underl&#228;tta f&#246;r visselbl&#229;sare att rapportera om oegentligheter eller andra allvarliga missf&#246;rh&#229;llanden i myndigheten.</p>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/aklagarmyndigheten-har-en-visselblasarfunktion/">L&#228;s mer<i class="fa fa-angle-right"></i></a>
+</div>
+<div class="article-image" style="background-image: url(/save/_embed/https://www.aklagare.se/globalassets/bilder/teaser-290x205/visselblasarfunktion.png)"></div>
+</article>
+</li>
+<li class="news-item">
+<article class="item-article">
+<div class="article-content">
+<h2><a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/svensk-aklagare-far-ny-expertroll-mot-terroristbrott-i-eu/">Svensk &#229;klagare f&#229;r expertroll mot terroristbrott i EU</a></h2>
+<time>2019-11-05</time>
+<p>Den 1 december i &#229;r tilltr&#228;der Agnetha Hilding Qvarnstr&#246;m en expertbefattning som Seconded National Expert (SNE) vid Eurojusts kontor i Haag. Befattningen &#228;r ett EU-uppdrag i form av ett tv&#229;&#229;rigt f&#246;rordnande med syfte att ytterligare st&#228;rka samarbetet kring bek&#228;mpningen av terroristbrott i Europa.</p>
+<a href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/svensk-aklagare-far-ny-expertroll-mot-terroristbrott-i-eu/">L&#228;s mer<i class="fa fa-angle-right"></i></a>
+</div>
+<div class="article-image" style="background-image: url(/save/_embed/https://www.aklagare.se/globalassets/bilder/puffbilder-aktuellt-pa-am-startsida-220-b-x-170-h/puff_agnethahildingqvarnstrom.jpg)"></div>
+</article>
+</li>
+<li class="list-more-info">
+<a class="more-info" href="/save/https://www.aklagare.se/nyheter-press/aktuellt-pa-aklagarmyndigheten/">Fler nyheter</a>
+</li>
+</ul>
+</div>
+</div>
+<aside>
+<div><div><div class="decoration"></div>
+<div class="box grey teaserblock teaserblock-padding">
+<h2>Prenumerera p&#229; pressmeddelanden</h2>
+<p>
+<p>Prenumeration tecknas på <a href="/save/https://via.tt.se/pressrum/aklagarmyndigheten?publisherId=3235540&amp;subscribe" target="_blank">Åklagarmyndighetens pressrum hos Via TT.</a></p>
+</p>
+</div>
+</div><div><div class="decoration"></div>
+<div class="box teaserblock teaserblock-padding">
+<a href="/save/https://www.aklagare.se/karriar/aklagaryrket/traffa-oss-pa-ditt-universitet-eller-hogskola/">
+<img src="/save/_embed/https://www.aklagare.se/globalassets/puff_profilering_vasteras.jpg" />
+<h2>Tr&#228;ffa oss p&#229; ditt universitet eller h&#246;gskola</h2>
+<p>
+Tr&#228;ffa oss p&#229; arbetsmarknadsdagarna!
+</p>
+<span class="more-info">L&#228;s mer <i class="fa fa-angle-right"></i></span>
+</a>
+</div>
+</div><div><div class="decoration"></div>
+<div class="box grey teaserblock teaserblock-padding">
+<h2>Hitta r&#228;tt</h2>
+<p>
+<p><a href="/save/https://www.aklagare.se/om-oss/dokument/handbocker/">Handböcker</a><br /><a href="/save/https://www.aklagare.se/om-oss/dokument/rapporter/">Rapporter</a><br /><a href="/save/https://www.aklagare.se/om-oss/dokument/rattspromemorior/">Rättspromemorior</a><br /><a href="/save/https://www.aklagare.se/om-oss/dokument/">Övriga dokument</a><br /><br /><a href="/save/https://www.aklagare.se/om_rattsprocessen/overprovning/">Överprövning</a>&nbsp;(information samt blankett)</p>
+</p>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</article>
+
+<footer class="page-footer">
+<div class="footer-container">
+<div class="top">
+<h2>Kontaktinformation</h2>
+<img src="/save/_embed/https://www.aklagare.se/ClientUI/img/structure/map.png" alt="Sverigekarta" />
+</div>
+<div class="middle">
+<div class="left">
+<div class="row">
+<div>
+<h4>Åklagarmyndigheten</h4>
+<p>Box 5553<br />114 85 Stockholm</p>
+<p>Växel 010-562 50 00</p>
+</div>
+<div>
+<h4>Presstjänsten</h4>
+<p><span>Du som är journalist är välkommen att vända dig till presstjänsten</span></p>
+</div>
+<div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="row">
+<div>
+<h4>Specialistkammare</h4>
+<ul>
+<li><a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/nationella-aklagaravdelningen/riksenheten-mot-korruption/">Riksenheten mot korruption</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/nationella-aklagaravdelningen/riksenheten-for-miljo--och-arbetsmiljomal/">Riksenheten för miljö- och arbetsmiljömål</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/nationella-aklagaravdelningen/riksenheten-for-sakerhetsmal/">Riksenheten för säkerhetsmål</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/nationella-aklagaravdelningen/riksenheten-mot-internationell-och-organiserad-brottslighet/">Riksenheten mot internationell och organiserad brottslighet</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/sarskilda-aklagarkammaren/">Särskilda åklagarkammaren</a></li>
+</ul>
+</div>
+<div>
+<h4>Utvecklingcentrum</h4>
+<ul>
+<li><a href="/save/https://www.aklagare.se/kontakt/utvecklingscentrum/utvecklingscentrum-stockholm/">Stockholm</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/utvecklingscentrum/utvecklingscentrum-goteborg/">Göteborg</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/utvecklingscentrum/utvecklingscentrum-malmo/">Malmö</a></li>
+</ul>
+</div>
+<div>
+</div>
+</div>
+</div>
+<div class="right">
+<h4>Åklagarområden och allmänna åklagarkammare</h4>
+<ul>
+<li><a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-nord/">Nord: Norrbotten, Västerbotten, Västernorrland, Jämtland</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-mitt/">Mitt: Gävleborg, Uppsala, Västmanland</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-bergslagen/">Bergslagen: Dalarna, Värmland och Örebro</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-stockholm/">Stockholm: Stockholm, Gotland</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-ost/">Öst: Södermanland, Östergötland, Jönköping</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-vast/">Väst: Västra Götaland, Halland</a></li>
+<li><a href="/save/https://www.aklagare.se/kontakt/aklagaromraden/aklagaromrade-syd/">Syd: Kalmar, Kronoberg, Blekinge, Skåne</a></li>
+</ul>
+</div>
+</div>
+<div class="bottom">
+<ul class="share">
+<li>Följ oss gärna</li>
+<li><a class="twitter" href="/save/https://www.aklagare.se/nyheter-press/for-media/sociala-medier/">Twitter</a></li>
+<li><a class="linkedin" href="/save/https://www.aklagare.se/nyheter-press/for-media/sociala-medier/">Linkedin</a></li>
+<li><a href="&quot;/hk/CMS/Content/nyheter-press/for-media/sociala-medier,,3085/?"><a class="facebook" href="/save/https://www.aklagare.se/nyheter-press/for-media/sociala-medier/">Facebook</a></a></li>
+<li><a href="/save/https://www.aklagare.se/cookies/">Om cookies</a></li>
+<li><a href="/save/https://www.aklagare.se/om-oss/uppdrag-och-mal/hantering-av-personuppgifter-i-aklagarmyndigheten/">Hantering av personuppgifter</a></li>
+</ul>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="/save/_embed/https://dl.episerver.net/current/epi-util/native.history.js"></script>
+<script type="text/javascript" src="/save/_embed/https://dl.episerver.net/current/epi-util/find.js"></script>
+<script type="text/javascript">
+if(FindApi){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}
+</script>
+
+<script defer type="text/javascript" src="/save/_embed/https://urldefense.proofpoint.com/v2/url?u=https-3A__ssl.webserviceaward.com_wsc_client_wscSelVisit902849.shtml&amp;d=DwIFAw&amp;c=bjjwPuL0kKrVCeG0Slv26euEks_qaMtAFkWSRlvjD4s&amp;r=bF1NBSGzMIRwFkk7hFM7RijNSCBISSLKAR6GIlKBl34&amp;m=6sCVQ7C-I4kTSDr0S30FyUW9CIrZoPOL7PMFgq-uFso&amp;s=bsGexX8SXvo-dxw0HHxpztgGYw5_rtr0APG9ILlsuCw&amp;e="></script>
+
+<script src="/save/_embed/https://www.aklagare.se/bundles/js?v=G64fwFrLc4mRxDaPy_7Us5hENo8cyx-BLgcSrXIzNt01"></script>
+</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 10:52:49 Dec 5, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:52:50 Dec 5, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
