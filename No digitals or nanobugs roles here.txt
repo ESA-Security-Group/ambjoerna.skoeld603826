@@ -1,0 +1,12 @@
+https://github.com/microsoft/appcenter-cli/commit/2e7cfc2f50bad074aecac3e975291c81c7ac5e48
+https://github.githubassets.com/assets/frameworks-c120fff53cd768eba1e1611c1137e306.css
+https://github.githubassets.com/assets/frameworks-ef488d77.js
+https://github.githubassets.com/assets/github-a000031b67c86179918d7223230a4f5a.css
+https://github.githubassets.com/assets/site-d3c48f1b58ea95d9efb184fd4592b411.css
+https://github.githubassets.com/images/search-key-slash.svg
+https://github.githubassets.com/assets/github-bootstrap-4da41ae1.js
+https://avatars2.githubusercontent.com/u/48661302?s=60&v=4
+https://github.com/microsoft/appcenter-cli/branch_commits/2e7cfc2f50bad074aecac3e975291c81c7ac5e48
+https://github.githubassets.com/favicon.ico
+https://collector.githubapp.com/collect
+https://collector.githubapp.com/github/page_view?dimensions[page]=https://github.com/microsoft/appcenter-cli/commit/2e7cfc2f50bad074aecac3e975291c81c7ac5e48&dimensions[title]=Add KNOWN_ISSUES.md · microsoft/appcenter-cli@2e7cfc2 · GitHub&dimensions[referrer]=&dimensions[user_agent]=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36&dimensions[screen_resolution]=1600x1000&dimensions[pixel_ratio]=1&dimensions[browser_resolution]=1200x5390&dimensions[tz_seconds]=0&dimensions[timestamp]=1575539327222&dimensions[request_id]=E4E4:4E44:1F87019:37EE5EB:5DE8D27E&dimensions[region_edge]=iad&dimensions[region_render]=iad&dimensions[ga_id]=244809767.1575539327&dimensions[visitor_id]=5392186654061023870&dimensions[user_id]=6154722&dimensions[user_login]=microsoft&dimensions[repository_id]=68242587&dimensions[repository_nwo]=microsoft/appcenter-cli&dimensions[repository_public]=true&dimensions[repository_is_fork]=false&dimensions[repository_network_root_id]=68242587&dimensions[repository_network_root_nwo]=microsoft/appcenter-cli&dimensions[repository_explore_github_marketplace_ci_cta_shown]=false&&measures[performance_timing]=1-18-7-1321-950-948-948-727-5-5-5--1321-0---19-785-706-9--&&&dimensions[cid]=1255466289.1575539326
