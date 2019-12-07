@@ -1,0 +1,3 @@
+https://archive.org/about/terms.php
+https://portal.office.com/admin/api/Domains/Records/Export?format=csv&domainType=full&domainName=firewicca.com&domainCapabilities=1029
+https://www.icloud.com/shortcuts/01bef7fff4704aed9db3abeed4c3dd8a
